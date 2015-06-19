@@ -4,7 +4,7 @@ Donate link:
 Tags: themes admin, admin appearance menu, toolbar appearance menu, admin appearance pages, dashboard appearance pages, custom header page, custom background page
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 0.1.1
+Stable tag: 0.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,7 +24,14 @@ Except for Themes itself, assumes theme support is enabled for the various items
 
 == Screenshots ==
 
+
 == Changelog ==
+
+= 0.1.2 =
+* Add all links explicitly as new instead of CSS-unhiding the existing core links
+* Does not modify any core links
+* Position dashboard old-school links to the bottom of the appearance menu
+* Position toolbar old-school links into a single fly-out menu to the bottom of the appearance menu
 
 = 0.1.1 =
 * Display all links in the dashboard appearance menu and in the front-end toolbar appearance menu
@@ -35,5 +42,3 @@ Except for Themes itself, assumes theme support is enabled for the various items
 * Original release displays old-school links in the toolbar appearance menu only and hides the customizer links
 
 == Upgrade Notice ==
-
-== Arbitrary section ==
