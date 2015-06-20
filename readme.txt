@@ -22,8 +22,17 @@ Except for Themes itself, assumes theme support is enabled for the various items
 
 == Installation ==
 
+Download the plugin zip file
+
+Upload via dashboard > plugins > add new > upload
+
+Activate the plugin
+
 == Screenshots ==
 
+1. The toolbar appearance menu
+
+2. The dashboard appearance menu
 
 == Changelog ==
 
